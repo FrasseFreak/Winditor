@@ -3,7 +3,7 @@
   "ParentClassOverride": "Actor",
   "ParameterFields": [
     {
-      "Name": "Unknown_1",
+      "Name": "Decorative Item Pedestal ID",
       "ValueSource": "Parameters",
       "Mask": 0x000000FF,
       "Hidden": false,
